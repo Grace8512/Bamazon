@@ -1,10 +1,10 @@
-# Bamazon
+# Bamazon <a id="top"></a>
 
-## Outline
+## Outline 
 
 two functions : 
 
-1. customer
+1. [customer]
     * allows user to view and purchase products.
 
 2. Manager
@@ -16,7 +16,7 @@ two functions :
 
 ## Set up
 
-To run this application, you will need MySQL and Node JS installed on your computer.
+To run this application, you will need [MySQL](https://dev.mysql.com/doc/refman/5.6/en/installing.html) and [Node JS](https://nodejs.org/en/download/) installed on your computer.
 
 **Run Application**
 
@@ -44,7 +44,10 @@ The customer interface :
 - If a customer orders more than the product’s inventory, they cannot purchase the product and the memo shows "Insufficient Quantity!"
 ```
 
-## Link
+## **GIF Link**
 
-    https://drive.google.com/file/d/1uwpNelHZ8mSUT894tHONngiVtLn55Lig/view
+[**Bamazon Customer**](
+https://media.giphy.com/media/giubdVFMJX3l5q7mGH/giphy.gif)
+
+[Scroll to top](#top)
 
