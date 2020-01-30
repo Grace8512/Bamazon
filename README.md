@@ -2,9 +2,9 @@
 
 ## Outline 
 
-two functions : 
+Functions : 
 
-1. [customer]
+1. customer
     * allows user to view and purchase products.
 
 2. Manager
@@ -27,7 +27,6 @@ git clone https://github.com/Grace8512/Bamazon.git
 cd Bamazon
 npm install
 node bamazonCustomer.js
-
 ```
 
 ## Customer Demo
@@ -41,7 +40,8 @@ The customer interface :
 4) Confirms order & updates product inventory in database
 
 * Note 
-- If a customer orders more than the product’s inventory, they cannot purchase the product and the memo shows "Insufficient Quantity!"
+- If a customer orders more than the product’s inventory, 
+they cannot purchase the product and the memo shows "Insufficient Quantity!"
 ```
 
 ## **GIF Link**
