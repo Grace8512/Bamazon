@@ -13,7 +13,7 @@ var connection = mysql.createConnection({
 
 connection.connect(function(err){
     if(err){
-        console.log("failed to connect to the database.");
+        console.log("failed to connect to the database." + err.stack);
     }else{
       showAllProducts(); 
     }
