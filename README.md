@@ -10,9 +10,6 @@ Functions :
 2. Manager
     * allows user to view, update, add, remove and new products
     
-3. Supervisor View
-    * allows user to view id, name, over_head_costs
-
 
 ## Set up
 
